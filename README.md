@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # CV-Engineer-Assignment
-=======
-# AeroSentry — CV engineer assignment 
+
 
 End-to-end **YOLO11** training on a YOLO-format image dataset, **offline evaluation** on image splits, and **video inference** with an optional **false-positive reduction** layer.
 
